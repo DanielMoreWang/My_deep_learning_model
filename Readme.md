@@ -1,4 +1,7 @@
-This is a folder to store all the code files of my current project--Lateral Connection Neural Network to segment RGB and thermal information.
+### This is a folder to store all the code files of my current project--Lateral Connection Neural Network to segment RGB and thermal information.
+
+![ ](native_american_art-wallpaper-2560x1440.jpg)
+
 
 ### There are revelant folders list below.
 
