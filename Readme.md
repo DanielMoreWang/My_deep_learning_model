@@ -1,5 +1,7 @@
 This is a folder to store all the code files of my current project--Lateral Connection Neural Network to segment RGB and thermal information.
 
+### There are revelant folders list below.
+
 Dockerfile
 
 /model
